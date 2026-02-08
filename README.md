@@ -3,7 +3,7 @@ title: Elliot Moore
 ---
 
 
-Elliot Moore
+# Elliot Moore
 
 Full name: Elliot James Moore
 Species: Anthropomorphic lizard
@@ -15,7 +15,7 @@ Occupation: Call center sales representative
 Known for: Consistently high sales performance, unusually flirtatious call style
 Residence: Urban apartment district, exact location unspecified
 
-Overview
+## Overview
 
 Elliot Moore is a civilian call center employee best known within his workplace for his exceptional outbound sales performance and unconventional interpersonal style. Despite occupying an entry-level position in a high-turnover industry, Elliot has maintained long-term employment due to his consistently high conversion rates and customer satisfaction metrics.
 
@@ -23,7 +23,7 @@ He is widely described as personable, disarming, and openly affectionate, with a
 
 Outside of work, Elliot leads a relatively low-profile personal life and does not pursue notoriety, influence, or authority. He is generally regarded as approachable, socially adept, and unintentionally memorable.
 
-Early Life
+## Early Life
 
 Elliot Moore was born and raised in a mid-sized metropolitan area, the youngest of three siblings. His early home environment was stable but emotionally understated, with an emphasis on politeness, adaptability, and not causing unnecessary trouble.
 
@@ -31,7 +31,7 @@ From a young age, Elliot demonstrated a strong sensitivity to social cues and em
 
 As a child, Elliot avoided conflict instinctively and developed a habit of softening situations through charm, humor, or gentle redirection. This behavior was not initially conscious and was often interpreted as shyness or agreeableness rather than social skill.
 
-Family Background
+## Family Background
 
 Elliot comes from a working- to lower-middle-class family with no notable public profile. His parents were employed in service and administrative roles and placed a strong emphasis on stability and reliability rather than ambition or visibility.
 
@@ -39,7 +39,7 @@ He maintains polite but distant relationships with most family members. While no
 
 Family members commonly describe him as “sweet,” “easygoing,” and “a little too trusting,” and tend to underestimate both his self-awareness and the intentionality behind his social behavior.
 
-Education
+## Education
 
 Elliot attended public schooling throughout his childhood and adolescence. Academically, he performed adequately but without distinction, excelling more in discussion-based or presentation-oriented coursework than in exams or technical subjects.
 
@@ -47,14 +47,14 @@ He briefly attended a local community college after graduation, enrolling in a g
 
 Despite this, Elliot does not view his education as a failure and rarely expresses regret about leaving formal academia. He tends to frame the experience as “not a good fit” rather than a missed opportunity.
 
-Career
-Early Employment
+## Career
+## Early Employment
 
 Before his current role, Elliot held a series of short-term service jobs, including retail, food service, and front-desk positions. In each case, he was noted for his friendliness and customer rapport but often left due to burnout, inconsistent scheduling, or dissatisfaction with management.
 
 These early roles helped refine his interpersonal instincts and reinforced his preference for controlled, conversational environments over physically demanding or chaotic workplaces.
 
-Call Center Work
+## Call Center Work
 
 Elliot currently works as an outbound sales representative at a large call center. His responsibilities include cold calling, lead follow-ups, and subscription renewals.
 
@@ -74,7 +74,7 @@ While his approach has been repeatedly flagged for review, internal audits have 
 
 Elliot’s performance metrics place him among the highest-performing sales representatives in the organization. He has received multiple informal commendations but avoids formal recognition, expressing discomfort with public praise.
 
-Personality and Interpersonal Style
+## Personality and Interpersonal Style
 
 Elliot is generally perceived as gentle, approachable, and emotionally intelligent. He tends to downplay his own influence and often appears surprised by the intensity of reactions he receives from others.
 
@@ -82,7 +82,7 @@ He is openly affectionate and casually flirtatious but avoids confrontation and 
 
 Despite appearances, Elliot is highly self-aware and understands the effect he has on people. He simply does not treat it as a tool to be weaponized, instead using it to navigate social spaces with minimal friction.
 
-Personal Life
+## Personal Life
 
 Elliot lives alone in a modest apartment and maintains a relatively unstructured lifestyle. He keeps irregular hours, sleeps late when possible, and values comfort and emotional safety over productivity.
 
@@ -90,7 +90,7 @@ His social life is active but informal, consisting mostly of friends, coworkers,
 
 He is openly bisexual and does not treat his orientation as a defining feature of his identity, though it informs much of his comfort with intimacy and emotional openness.
 
-Public Perception
+## Public Perception
 
 Within his workplace, Elliot is regarded as an anomaly. Coworkers often describe him as “impossible to replicate” and warn new hires against attempting to mimic his approach.
 
@@ -98,7 +98,7 @@ Supervisors view him as both a liability and an asset, often expressing frustrat
 
 Customers frequently request follow-up calls with Elliot specifically, though he does not advertise himself or encourage attachment beyond the scope of the call.
 
-Trivia
+## Trivia
 
 Elliot insists he is easily replaceable, despite evidence to the contrary.
 
