@@ -2,14 +2,14 @@
 
 # Elliot Moore
 
-Full name: Elliot James Moore
-Species: Anthropomorphic lizard
-Height: 5'8"
-Weight: 115 lbs
-Sexual orientation: Bisexual
-Relationship status: Single
-Occupation: Call center sales representative
-Known for: Consistently high sales performance, unusually flirtatious call style
+Full name: Elliot James Moore<br>
+Species: Anthropomorphic lizard<br>
+Height: 5'8"<br>
+Weight: 115 lbs<br>
+Sexual orientation: Bisexual<br>
+Relationship status: Single<br>
+Occupation: Call center sales representative<br>
+Known for: Consistently high sales performance, unusually flirtatious call style<br>
 Residence: Urban apartment district, exact location unspecified
 
 ## Overview
