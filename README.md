@@ -103,8 +103,4 @@ He dislikes being described as “dangerous” or “manipulative.”
 
 He prefers to think of himself as helpful.# elliotmoore
 
-<img
-  src="images/elliot.png"
-  alt="Elliot Moore headshot"
-  style="max-width: 300px; border-radius: 8px;"
->
+![Elliot Moore headshot](images/elliot.png)
