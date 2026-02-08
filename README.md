@@ -1,3 +1,5 @@
+<img src="images/elliot.png" alt="Elliot Moore headshot" width="300">
+
 # Elliot Moore
 
 Full name: Elliot James Moore
