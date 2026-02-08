@@ -1,8 +1,3 @@
----
-title: Elliot Moore
----
-
-
 # Elliot Moore
 
 Full name: Elliot James Moore
