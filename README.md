@@ -101,6 +101,6 @@ HR has spoken to him multiple times regarding “tone consistency.”
 
 He dislikes being described as “dangerous” or “manipulative.”
 
-He prefers to think of himself as helpful.# elliotmoore
+He prefers to think of himself as helpful.
 
 ![Elliot Moore headshot](images/elliot.png)
