@@ -7,7 +7,7 @@ Species: Anthropomorphic lizard<br>
 Height: 5'8"<br>
 Weight: 115 lbs<br>
 Sexual orientation: Bisexual<br>
-Relationship status: Single<br>
+Relationship status: Taken <3 <br>
 Occupation: Call center sales representative<br>
 Known for: Consistently high sales performance, unusually flirtatious call style<br>
 Residence: Urban apartment district, exact location unspecified
